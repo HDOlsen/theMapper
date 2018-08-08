@@ -48,7 +48,7 @@ Search History Screen
 
 Even if you delete your results, your searches are stored.  
 
-<img src="PNG/theMapper_Search.png"></img>
+<img src="PNG/theMapper_SearchA.png"></img>
 
 
 Development setup
