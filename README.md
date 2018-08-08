@@ -52,24 +52,20 @@ Even if you delete your results, your searches are stored.
 
 
 Development setup
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-make install
-npm test
-Release History
-0.2.1
-CHANGE: Update docs (module code remains unchanged)
-0.2.0
-CHANGE: Remove setDefaultXYZ()
-ADD: Add init()
-0.1.1
-FIX: Crash when calling baz() (Thanks @GenerousContributorName!)
-0.1.0
-The first proper release
-CHANGE: Rename foo() to bar()
-0.0.1
-Work in progress
-Meta
-Hutson Olsen – www.hutsondolsen.com – hutson.olsen@gmail.com
+This app requires the following dependencies:
+
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "express": "^4.16.3"
+
+Hutson Olsen – www.hutsondolsen.com – hdolsen@hutsondolsen.com
 
 https://github.com/HDOlsen/theMapper.git
