@@ -1,0 +1,36 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "server": "nodemon server.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "yarn": "^1.9.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.6.1"
+  },
+  "description": "REST Countries Project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDOlsen/REST-Countries.git"
+  },
+  "keywords": [
+    "REST",
+    "React",
+    "Redux",
+    "Node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDOlsen/REST-Countries/issues"
+  },
+  "homepage": "https://github.com/HDOlsen/REST-Countries#readme"
+}

@@ -1,0 +1,4 @@
+export const POST_COUNTRY = "POST_COUNTRY"
+export const POST_SEARCH = "POST_SEARCH"
+export const DELETE_COUNTRY = "DELETE_COUNTRY"
+export const DELETE_SEARCH = "DELETE_SEARCH"
