@@ -34,21 +34,21 @@ Results Screen
 
 Click the second-from-left icon.  Your country's flag, map, and key demographics appear.
 
-<img src="theMapper_Res"></img>
+<img src="PNG/theMapper_Res"></img>
 
 
 Map Screen
 
 The next icon will take you to larger maps.  
 
-<img src="theMapper_Map"></img>
+<img src="PNG/theMapper_Map"></img>
 
 
 Search History Screen
 
 Even if you delete your results, your searches are stored.  
 
-<img src="theMapper_Search"></img>
+<img src="PNG/theMapper_Search"></img>
 
 
 Development setup
