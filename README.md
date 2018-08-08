@@ -1,6 +1,6 @@
 theMapper <i class="far fa-map"></i>
 
-<img src="theMapper.png"></img>
+<img src="PNG/theMapper.png"></img>
 
 About
 
