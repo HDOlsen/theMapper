@@ -19,7 +19,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HDOlsen/REST-Countries.git"
+    "url": "git+https://github.com/HDOlsen/theMapper.git"
   },
   "keywords": [
     "REST",
@@ -30,7 +30,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HDOlsen/REST-Countries/issues"
+    "url": "https://github.com/HDOlsen/theMapper/issues"
   },
-  "homepage": "https://github.com/HDOlsen/REST-Countries#readme"
+  "homepage": "https://github.com/HDOlsen/theMapper#readme"
 }
